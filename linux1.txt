@@ -1,2 +1,3 @@
 yo jii
 I made my first change in git
+i just connect vs code to ubuntu
